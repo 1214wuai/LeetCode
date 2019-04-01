@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\刷题\leetcode\交换字符串2k\交换字符串2k\test.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+d:\刷题\leetcode\交换字符串2k\交换字符串2k\test.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+  交换字符串2k.vcxproj -> D:\刷题\LeetCode\交换字符串2k\Debug\交换字符串2k.exe
